@@ -1,5 +1,5 @@
 Laser Run Game Manual
-ver. 1.4.5
+ver. 1.4.7
 
 
 To exit the game, at any point, press the ESCAPE key on your keyboard. 
@@ -26,6 +26,7 @@ It will cost 2 ammo and some stamina.
 
 Boomerangers should be used by players with good timing and prediction skills.
 A boomeranger can either use a Daggar as a melee weapon, or a Boomerang as a ranged weapon.
+If a boomeranger makes contact with the boomerang, after the boomerang has hit the wall, the boomerang will be collected, and one ammo will be restored.
 
 Spies should be used by players who enjoy sneaking around the map.
 Spies can either use a Daggar as a melee weapon, or a Spear as a ranged weapon.
@@ -369,6 +370,8 @@ Good luck, and have fun.
 
 Changelog:
 
+1.4.7 -- Added boomerang collection for boomeranger.
+1.4.6 -- Added sound effects! New sounds for using ranged and melee weapons, and rain. 
 1.4.5 -- Added sphinx mob. New map: Dull Desert. New Cactus blocks are scattered across arid maps. Added Sandstorm weather event.
 1.4.4 -- Text tips added for clarity. New map: Raging Rapids. Added sea serpent. Moved things around on launcher.
 1.4.3 -- New map: Icy Inlet.
@@ -407,4 +410,4 @@ Ben Fedoruk -- Programmer
 Alex Harris -- Graphic and Sound
 
 
-Up Next: Challenges
+Up Next: Ice Theme Continues
